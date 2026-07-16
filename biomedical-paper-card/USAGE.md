@@ -13,7 +13,6 @@
 - 所有具体结论优先基于论文原文证据
 - 不要仅依赖摘要
 - 涉及 Figure 时尽可能对应具体 Figure 编号
-- 区分 direct evidence、authors' interpretation 和 further inference
 - 不得虚构论文中未报告的实验或结果
 - 如果信息不足，请明确说明
 - 后续追问仍需优先回到原始论文内容，而不是只依赖 Paper Card
