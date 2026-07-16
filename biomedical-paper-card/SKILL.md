@@ -1,8 +1,3 @@
----
-name: biomedical-paper-card
-description: 将用户提供的生物医学论文系统解析为结构化 Biomedical Paper Card。适用于用户上传论文 PDF、全文、图、图注或部分正文，并要求基于原始论文进行证据导向、逐图、机制和研究价值分析的场景。
-
-
 # 生物医学论文卡片（Biomedical Paper Card）
 
 ## 1. 目的
