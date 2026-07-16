@@ -64,7 +64,6 @@
 - Study design
 - Key findings
 - Mechanistic model
-- Evidence strength
 - Limitations
 - Novelty
 - Relevance to my research
